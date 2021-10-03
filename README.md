@@ -1,3 +1,3 @@
 # EnglishDictionary
 deployed to Heroku
-englishdictionaryarunkumar.herokuapp.com/
+https://englishdictionaryarunkumar.herokuapp.com/
